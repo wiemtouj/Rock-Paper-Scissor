@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718288176 source:e:\programmation c++\rock-paper-scissor\main.cpp
+	<iostream>
+	<ctime>
+	<iostream>
+
+1718288176 source:e:\programmation-c++\rock-paper-scissor\main.cpp
+	<iostream>
+	<ctime>
+	<iostream>
+
